@@ -10,9 +10,9 @@ void main()
 }
 float area(int a,int b,int c)
 {
-    float s,h;
+    float s,ar;
     s=(a+b+c)/2;
-    h=(sqrt(s*(s-a)*(s-b)*(s-c)));
-    printf("The area of triangle is ::%.2f",h);
+    ar=(sqrt(s*(s-a)*(s-b)*(s-c)));
+    printf("The area of triangle is ::%.2f",ar);
     return(0);
 }
