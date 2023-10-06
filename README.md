@@ -5,11 +5,9 @@ Welcome to my C Programming Lab submissions repository! In this repository, you 
 ## Programs:
 
 1. **Fahrenheit to Celsius Converter**
-   - **File:** `fahrenheit_to_celsius.c`
    - **Description:** This program converts degrees Fahrenheit into degrees Celsius using a simple formula.
 
 2. **Triangle Area Calculator**
-   - **File:** `triangle_area.c`
    - **Description:** This program calculates the area of a triangle given its sides as input using functions.
 
 3. **Quadratic Equation Solver**
